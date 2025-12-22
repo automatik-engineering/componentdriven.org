@@ -38,7 +38,7 @@ export const CSF = () => (
       <Stack axis="vertical" space={24}>
         <Text>
           The{' '}
-          <Link href="https://github.com/ComponentDriven/csf">
+          <Link href="https://storybook.js.org/docs/api/csf/index">
             Component Story Format
           </Link>{' '}
           is an open standard for component examples based on JavaScript ES6
